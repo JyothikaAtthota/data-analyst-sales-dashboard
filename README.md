@@ -4,6 +4,10 @@
 ## 📊 Objective:
 To create a compelling data story using Power BI and visualize business insights using the Superstore dataset.
 
+## 📁 Files:
+- Superstore.csv
+- Dashboard.pbix
+- Dashboard_Screenshots.pdf
 ## 📌 Key Insights:
 - Region-wise performance shows highest sales in the West.
 - Office Supplies category has high volume but low profit.
